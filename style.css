@@ -1,0 +1,32 @@
+#container{
+    padding: 30px;
+    background-color: rgb(116, 116, 115);
+}
+#box-1{
+    width: 100px;
+    color: rgb(1, 199, 199);
+    background-color: rgb();
+    text-align: center;
+border-style: solid;
+border-color: rgb(1, 199, 199); 
+margin: 20px;
+}
+#box-2{
+    width: 20px;
+    margin: 20px;
+    color: white;
+    background-color: rgb(1, 199, 199);
+    padding: 8px;
+    text-align: center;
+    border-radius: 50%;
+}
+#box-3{
+    width: 150px;
+    margin: 20px;
+color: rgb(244, 239, 239);
+background-color: blue;
+padding: 10px;
+border-style: solid;
+border-color: black;
+box-shadow: 5px 10px black;
+}
